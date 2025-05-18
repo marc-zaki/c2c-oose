@@ -1,0 +1,2 @@
+understand how to write composition and aggregation in terms of php 
+and double check the code written to ensure it works for future references.

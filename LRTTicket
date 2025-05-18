@@ -1,0 +1,14 @@
+<?php
+require_once 'Ticket.php';
+
+class LRTTicket extends Ticket {
+    public function getCategory(): string {
+        
+    }
+
+    // Override
+    public function generateTicket(): string {
+        
+    }  
+}
+?>
